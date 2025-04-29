@@ -30,14 +30,6 @@
 
 ---
 
-## 🏅 Certificações e Conhecimentos Complementares
-
-- 🎯 **Scrum Fundamentals Certified (SFC)** – SCRUMstudy  
-- 🔍 Noções de **LGPD** aplicadas a sistemas
-- 📊 Diagramas UML para modelagem de sistemas
-
----
-
 ## 📫 Contato e Conexões
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-castro-565b211ba/)
