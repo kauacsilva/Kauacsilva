@@ -6,8 +6,8 @@
 
 ## 📬 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-- 📧 Email: seu.email@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-castro-565b211ba/)  
+- 📧 Email: kaua.c0207@gmail.com
 
 ---
 
