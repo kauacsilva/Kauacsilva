@@ -26,7 +26,7 @@
 
 ### 🔧 [Sistema de Gestão de Chamados com IA](https://github.com/seuusuario/projeto-suporte-ia)
 > Interface Desktop • SQL Server • Metodologia Scrum • Diagramas UML 
-> 📌 Projeto integrado para gestão de chamados com suporte à IA.
+> 📌 Projeto integrado para gestão de chamados com suporte à IA. 
 
 ---
 
