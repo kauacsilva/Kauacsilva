@@ -14,7 +14,7 @@
   <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
+<br>
 - ✅ Experiência com **metodologia Scrum**
 - ✅ Modelagem com **UML** (casos de uso, classes, sequência, implementação)
 - ✅ Desenvolvimento com **C / C++**
