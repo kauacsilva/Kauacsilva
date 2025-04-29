@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Kauã
 
-<!--
-**kauacsilva/Kauacsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- 📧 Email: seu.email@gmail.com
+
+---
+
+## 🧠 Habilidades
+
+- Linguagens: **C** | **C++**
+- Banco de Dados: **SQL Server**
+- Metodologias Ágeis: **Scrum**
+- Modelagem: **Diagramas UML (casos de uso, classes, sequência, implementação)**
+
+---
+
+## 💼 Projetos em Destaque
+
+**🔧 Sistema de Gestão de Chamados com IA**  
+Projeto acadêmico completo com interface desktop, Banco de dados em SQL Server, Diagramas UML e metodologia Scrum.
+
+---
+
+
+
