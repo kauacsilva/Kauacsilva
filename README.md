@@ -15,10 +15,10 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 <br>
-- ✅ Experiência com **metodologia Scrum**
-- ✅ Modelagem com **UML** (casos de uso, classes, sequência, implementação)
-- ✅ Desenvolvimento com **C / C++**
-- ✅ Banco de dados com **SQL Server**
+- ✅ Experiência com **metodologia Scrum** <br>
+- ✅ Modelagem com **UML** (casos de uso, classes, sequência, implementação) <br>
+- ✅ Desenvolvimento com **C / C++** <br>
+- ✅ Banco de dados com **SQL Server** <br>
 
 ---
 
