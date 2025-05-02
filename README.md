@@ -27,6 +27,7 @@
 <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 ---
+
 ## 🧠 Projetos em Destaque
 
 ### 🔧 [Sistema de Gestão de Chamados com IA](https://github.com/TechHelp-AI/techhelp-ai-docs)
