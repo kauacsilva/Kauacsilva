@@ -21,10 +21,10 @@
 </div>
 
 ---
+
 ## 📚 Estou aprendendo
 <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
 
 ---
 ## 🧠 Projetos em Destaque
