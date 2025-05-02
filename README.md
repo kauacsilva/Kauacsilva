@@ -8,8 +8,8 @@
 
 ## 🚀 Tecnologias e Habilidades
 
-- ✅ Experiência com **metodologia Scrum** 
-- ✅ Modelagem com **UML** (casos de uso, classes, sequência, implementação) 
+- ✅ Experiência com **Metodologia Scrum** 
+- ✅ Modelagem com **UML** 
 - ✅ Desenvolvimento com **C / C++** 
 - ✅ Banco de dados com **SQL Server** 
 
@@ -21,7 +21,12 @@
 </div>
 
 ---
+## 📚 Estou aprendendo
+<img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
 
+---
 ## 🧠 Projetos em Destaque
 
 ### 🔧 [Sistema de Gestão de Chamados com IA](https://github.com/TechHelp-AI/techhelp-ai-docs)
