@@ -1,61 +1,50 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Olá 👋 Tudo bem?  
+Meu nome é **Kauã** e eu sou um **estudante de Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e programação. 🚀  
 
-###
+---
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+## 👨‍💻 Sobre mim
+✨ Criando bugs desde **2023**  
+📚 Atualmente estou aprendendo **C#, JavaScript e desenvolvimento backend**  
+🎯 Objetivos: **me tornar um desenvolvedor full stack** e criar soluções inovadoras  
+🎲 Curiosidade: **sou fascinado por Inteligência Artificial e adoro resolver problemas lógicos**  
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 Eu codifico com  
 
-###
+### 🔹 Ícones
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-uml-web-flaticons-flat-flat-icons.png" alt="Astah/UML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</div>  
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+### 🔹 Badges
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![UML / Astah](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white)  
 
-###
+---
 
-<h2 align="left">I code with</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/kauã-castro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+## 📫 Onde me encontrar
+<div>
+  <a href="https://www.linkedin.com/in/kauã-castro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="kaua.c0207@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <a href="mailto:kaua.c0207@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kauacsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauacsilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kauacsilva.Kauacsilva&left_text=Visitantes"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Kauacsilva/Kauacsilva/output/snake.svg" alt="Snake animation" />
-
-###
