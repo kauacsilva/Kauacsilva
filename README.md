@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Racing+Sans+One&size=30&pause=1000&color=34B6EFFF&background=FF000000&center=true&multiline=true&width=436&lines=Ol%C3%A1%2C+eu+sou+Kau%C3%A3+Castro" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Racing+Sans+One&size=40&pause=1000&color=34B6EFFF&background=FF000000&center=true&multiline=true&width=436&lines=Ol%C3%A1%2C+eu+sou+Kau%C3%A3+Castro" alt="Typing SVG" />
   </a>
   <h3 align="center">Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por tecnologia e programação. 🚀</h3>
 </p>
